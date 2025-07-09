@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/83ab7a51-831c-4d6e-9ce2-3a004ac6481d
 
 ## 📁 Project Structure
 tests/
-├── ui/
+├── ui_test/
 │ └── test_twitch_ui.py
 pages/
 ├── base_page.py
